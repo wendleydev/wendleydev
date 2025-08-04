@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Wendley Santos!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Front-end;React+%7C+JavaScript+%7C+CSS;Focado+em+UX%2FUI+Moderno" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+Front-end;React+%7C+JavaScript+%7C+CSS;Focado+em+UX%2FUI+Moderno" alt="Typing SVG" />
 </div>
 
 <div align="center">
