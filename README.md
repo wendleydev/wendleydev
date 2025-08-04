@@ -30,10 +30,10 @@ Sou um desenvolvedor web front-end apaixonado por criar interfaces modernas e ex
 ### 🚀 Tecnologias que estou aprendendo
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
 ## 🏆 Projetos em Destaque
@@ -58,10 +58,16 @@ Portfólio desenvolvido com HTML, CSS e JavaScript puro.
 
 ## 🚧 Projetos em Andamento
 
+### 🎓 Curso Full Stack Developer
+- **Descrição**: Aprendendo desenvolvimento completo (Backend + Frontend + Mobile)
+- **Tech Stack**: NodeJS, ReactJS, React Native, Banco de Dados
+- **Status**: Em andamento
+- **Foco**: Projetos práticos e boas práticas para o mercado
+
 ### 📱 App Mobile
 - **Descrição**: Aplicativo mobile para gestão pessoal
 - **Tech Stack**: React Native, TypeScript
-- **Status**: Em desenvolvimento
+- **Status**: Planejamento (após curso)
 
 ### 🌐 Blog Técnico
 - **Descrição**: Blog para compartilhar conhecimentos
@@ -89,19 +95,27 @@ Portfólio desenvolvido com HTML, CSS e JavaScript puro.
 
 ## 🎯 Objetivos
 
-- [ ] Aprender **TypeScript** e **Next.js**
-- [ ] Contribuir para projetos open source
-- [ ] Desenvolver aplicações full-stack
-- [ ] Criar conteúdo técnico (blog/vídeos)
-- [ ] Participar de hackathons
-- [ ] Criar curso online de React
+- [x] Aprender **React** e **Next.js** ✅
+- [x] Dominar **JavaScript ES6+** ✅
+- [x] Criar interfaces responsivas com **HTML5 e CSS3** ✅
+- [ ] Completar curso **Full Stack Developer** (NodeJS + ReactJS + React Native)
+- [ ] Desenvolver aplicações **full-stack** completas
+- [ ] Criar aplicativos **mobile** com React Native
+- [ ] Contribuir para projetos **open source**
+- [ ] Participar de **hackathons**
 
 ## 🏆 Certificações
 
-- [ ] **React Developer** - Meta (em andamento)
-- [ ] **JavaScript Algorithms and Data Structures** - freeCodeCamp
-- [ ] **Responsive Web Design** - freeCodeCamp
-- [ ] **Front End Development Libraries** - freeCodeCamp
+### ✅ **Concluídas:**
+- [x] **[React + Next.js: Do Zero ao Avançado](https://www.udemy.com/certificate/UC-5a2a3f2e-f96e-4383-868f-c85261f9a22d/)** - Udemy
+- [x] **[JavaScript Completo ES6+](https://www.udemy.com/certificate/UC-eb2a0dcf-5d77-4f0c-be6d-a9535d30ab25/)** - Udemy
+- [x] **[HTML5 e CSS3: Do Básico ao Avançado](https://www.udemy.com/certificate/UC-d89cfa30-18f8-48a8-bf7a-7d4aafc41651/)** - Udemy
+
+### 🚧 **Em Andamento:**
+- [ ] **Full Stack Developer** - Curso Completo (NodeJS + ReactJS + React Native)
+  - **Descrição**: Desenvolvimento completo desde backend com NodeJS, frontend com ReactJS até mobile com React Native
+  - **Tecnologias**: JavaScript, NodeJS, ReactJS, React Native, Banco de Dados
+  - **Foco**: Projetos práticos e boas práticas para o mercado de trabalho
 
 ## 📫 Como me encontrar
 
