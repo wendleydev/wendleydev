@@ -134,6 +134,14 @@ Portfólio desenvolvido com HTML, CSS e JavaScript puro.
   </a>
 </div>
 
+## 📄 Currículo
+
+<div align="center">
+  <a href="https://github.com/wendleydev/wendleydev/blob/main/curriculo-wendley-santos.pdf">
+    <img src="https://img.shields.io/badge/📄_Baixar_Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Baixar Currículo PDF" />
+  </a>
+</div>
+
 ## 🌟 Fun Fact
 
 > "O código é poesia em movimento" - Sempre buscando escrever código limpo e legível! 💻✨
@@ -149,5 +157,7 @@ Portfólio desenvolvido com HTML, CSS e JavaScript puro.
 <div align="center">
   ⭐ Se gostou do meu trabalho, considere dar uma estrela nos repositórios!
   
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Freelance-brightgreen?style=for-the-badge" alt="Available for Freelance" />
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Vaga%20Júnior-brightgreen?style=for-the-badge" alt="Available for Junior Position" />
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Estágio-blue?style=for-the-badge" alt="Available for Internship" />
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Freelance-orange?style=for-the-badge" alt="Available for Freelance" />
 </div> 
