@@ -6,7 +6,11 @@
 
 ## 🎯 Sobre mim
 
-Desenvolvedor **front-end** focado em **React**, **JavaScript** e **CSS**, com interesse forte em **UX/UI**, acessibilidade e interfaces responsivas. Busco uma posição **júnior** em desenvolvimento web front-end (**remoto** ou híbrido), com disponibilidade no fuso **Brasil (GMT-3)**.
+Formado em **Sistemas de Informação**, em transição para **Desenvolvimento Front-End**. Já atuei como dev Front-End em **estágio**, com foco em **interfaces**, **layout responsivo** e **lógica aplicada ao client-side**.
+
+No dia a dia, priorizo código **organizado e escalável** e telas que unam boa **usabilidade** com **performance**. Estudo continuamente ecossistema **React / JavaScript / CSS** e práticas de **UX/UI** e **acessibilidade**.
+
+Busco uma posição **júnior** em front-end (**remoto** ou **híbrido**), com disponibilidade no fuso **Brasil (GMT-3)** — onde eu possa entregar valor em time, evoluir com feedback e contribuir com soluções reais.
 
 ## 💼 Projetos em destaque
 
