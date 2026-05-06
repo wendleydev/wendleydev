@@ -1,12 +1,19 @@
+
+ # 👋 Olá, eu sou Wendley Santos!
+
 <div align="center">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+Front-end;React+%7C+JavaScript+%7C+CSS;Focado+em+UX%2FUI+Moderno" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wendleydev&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/wendleydev?style=flat-square&color=green" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/wendleydev?style=flat-square&color=yellow" alt="Stars" />
+</div>
+
+## 🎯 Sobre Mim
+
+Sou um desenvolvedor web front-end apaixonado por criar interfaces modernas e experiências únicas. Atualmente focado em **React**, **JavaScript** e **CSS**, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
 ## 🏆 Projetos em Destaque
 
@@ -41,26 +48,44 @@ Portfólio moderno desenvolvido para apresentar projetos e habilidades.
 🔗 Demo: https://wendleydev.vercel.app/  
 💻 Código: https://github.com/wendleydev/Portfolio
 
----
 
-## 📊 GitHub Stats
+## 🏆 Certificações
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wendleydev&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendleydev&layout=compact&theme=radical&hide_border=true" />
-</div>
+### ✅ **Concluídas:**
+- [x] **[React + Next.js: Do Zero ao Avançado](https://www.udemy.com/certificate/UC-5a2a3f2e-f96e-4383-868f-c85261f9a22d/)** - Udemy
+- [x] **[JavaScript Completo ES6+](https://www.udemy.com/certificate/UC-eb2a0dcf-5d77-4f0c-be6d-a9535d30ab25/)** - Udemy
+- [x] **[HTML5 e CSS3: Do Básico ao Avançado](https://www.udemy.com/certificate/UC-d89cfa30-18f8-48a8-bf7a-7d4aafc41651/)** - Udemy
 
----
 
-## 📫 Contato
+## 📫 Como me encontrar
 
 - 📧 Email: wendley.dev@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/wendley-santos-248159219/
 - 🌐 Portfólio: https://wendleydev.vercel.app/
 - 💻 GitHub: https://github.com/wendleydev
 
+## 📄 Currículo
+
+<div align="center">
+  <a href="https://github.com/wendleydev/wendleydev/blob/main/curriculo-wendley-santos.pdf">
+    <img src="https://img.shields.io/badge/📄_Baixar_Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Baixar Currículo PDF" />
+  </a>
+</div>
+
+## 🌟 Fun Fact
+
+> "O código é poesia em movimento" - Sempre buscando escrever código limpo e legível! 💻✨
+
+## 📈 Contribuições Recentes
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wendleydev&theme=radical&hide_border=true" alt="Contribution Graph" />
+</div>
+
 ---
 
 <div align="center">
   <img src="https://img.shields.io/badge/Disponível%20para-Front--End%20Júnior-brightgreen?style=for-the-badge" alt="Disponível" />
 </div>
+
+
