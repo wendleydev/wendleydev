@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+Front-end;React+%7C+JavaScript+%7C+CSS;Focado+em+UX%2FUI+Moderno" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wendleydev&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/wendleydev?style=flat-square&color=green" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/wendleydev?style=flat-square&color=yellow" alt="Stars" />
-</div>
 
 ## 🎯 Sobre Mim
 
@@ -75,12 +70,6 @@ Portfólio moderno desenvolvido para apresentar projetos e habilidades.
 ## 🌟 Fun Fact
 
 > "O código é poesia em movimento" - Sempre buscando escrever código limpo e legível! 💻✨
-
-## 📈 Contribuições Recentes
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wendleydev&theme=radical&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ---
 
